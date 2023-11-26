@@ -27,6 +27,7 @@
                 android:id="@+id/etNoteTitle"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:autofillHints="no"
                 android:background="@android:color/transparent"
                 android:ems="10"
                 android:hint="@string/type_your_title"
@@ -39,6 +40,8 @@
                 android:id="@+id/etNoteContent"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
+                android:autofillHints="no"
+                android:ems="10"
                 android:gravity="start|top"
                 android:hint="@string/add_some_text"
                 android:inputType="textMultiLine" />
