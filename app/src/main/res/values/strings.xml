@@ -7,4 +7,7 @@
     <string name="type_your_title">Type your title</string>
     <string name="add_some_text">Add some text</string>
     <string name="note_title">Note Title</string>
+    <string name="search">Search</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
 </resources>
